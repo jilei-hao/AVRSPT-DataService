@@ -10,7 +10,7 @@ https://fastapi.tiangolo.com/#installation
 
 - Set directory to serve in `config.ini`
 - `cd src`
-- `uvicorn main:app --reload
+- `uvicorn main:app --reload --host x.x.x.x --port xxxx
 
 ## Reference
 
